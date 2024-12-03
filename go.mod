@@ -23,7 +23,7 @@ go 1.23.2
 toolchain go1.23.3
 
 require (
-	github.com/G-Research/yunikorn-core v0.0.0-20241125205330-5f62a0bb57a0
+	github.com/G-Research/yunikorn-core v0.0.0-20241202214804-ba58310cd431
 	github.com/G-Research/yunikorn-scheduler-interface v0.0.0-20241010085204-da837381ae08
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
