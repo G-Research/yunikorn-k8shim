@@ -2,10 +2,8 @@ cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMT
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOElx5B5HZ4hJQsoJ/PvUvKRhJHDQXO8P8=
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/G-Research/yunikorn-core v0.0.0-20241125205330-5f62a0bb57a0 h1:StAJ/ZpA00riK6IBP6tvOC4rkk+yVSCbHGHXlMZksBs=
-github.com/G-Research/yunikorn-core v0.0.0-20241125205330-5f62a0bb57a0/go.mod h1:91B5DZaf9g2j4PBZijOjHGCpAcdGIj/hXPlF2+2jpH8=
-github.com/G-Research/yunikorn-core v0.0.0-20241202214804-ba58310cd431 h1:mpsB7VSfpxTAnVfWEOm0N6HhLhxmvY8r/SXyRASX5gU=
-github.com/G-Research/yunikorn-core v0.0.0-20241202214804-ba58310cd431/go.mod h1:91B5DZaf9g2j4PBZijOjHGCpAcdGIj/hXPlF2+2jpH8=
+github.com/G-Research/yunikorn-core v0.0.0-20241226160849-bd24502ae41a h1:KsKfaRJebMvhfkBMSCXizI1oJs8RvCqIv00wLiCRVK8=
+github.com/G-Research/yunikorn-core v0.0.0-20241226160849-bd24502ae41a/go.mod h1:91B5DZaf9g2j4PBZijOjHGCpAcdGIj/hXPlF2+2jpH8=
 github.com/G-Research/yunikorn-scheduler-interface v0.0.0-20241010085204-da837381ae08 h1:uV9X13Of+UNRBhvhHzf6A1KT2j85emuVMNEua5rO8g4=
 github.com/G-Research/yunikorn-scheduler-interface v0.0.0-20241010085204-da837381ae08/go.mod h1:FQMPzj6bVpw0SLjDxVSdbp8DaQGeUrVD4WdxyI3go9Q=
 github.com/Microsoft/go-winio v0.6.0 h1:slsWYD/zyx7lCXoZVlvQrj0hPTM1HI4+v1sIda2yDvg=
