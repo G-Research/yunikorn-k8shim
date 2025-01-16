@@ -19,7 +19,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version-file: .go_version
+          go-version-file: "go.mod"
 
       - name: Extract version
         id: get_version
